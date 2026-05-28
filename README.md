@@ -1,5 +1,3 @@
-SUMMARY
-
 • Software Engineer with over 5 years of experience across different industries, including Occupational Medicine and Cosmetics.
 
 • Core technologies include Java, Angular, SQL, APIs, and Cloud technologies.
