@@ -10,8 +10,6 @@ SUMMARY
 
 • Strong background troubleshooting production issues and contributing to reliable, maintainable, and high-performance systems.
 
-• Recognized by colleagues as a highly proactive team member with strong communication skills, a fast learner, high attention to detail, and a results-driven mindset.
-
-• Recognized for having a collaborative and supportive approach to mentoring, helping junior engineers improve technical skills, problem-solving abilities, and development best practices.
+• Recognized by colleagues for having a collaborative and supportive approach to mentoring, helping junior engineers improve technical skills, problem-solving abilities, and development best practices.
 
 • Notable achievements include leading a small team of engineers and working directly with the CTO on technical and business initiatives.
