@@ -1,13 +1,9 @@
-Sou desenvolvedor FullStack com uma sólida experiência em Programação Orientada a Objetos, especialmente em Java (versões 6, 8 e 17). Tenho competências avançadas em desenvolvimento front-end, utilizando frameworks como Angular e Vue.js. Além disso, possuo um domínio robusto em bancos de dados SQL, incluindo Oracle, MySQL e Postgres, o que me permite criar soluções integradas e eficientes. Minha paixão por tecnologia e aprendizado contínuo me impulsiona a sempre buscar inovações e melhorias em meus projetos. 
- 
-- Java
-- AngularJS
-- Vue.js
-- Postgres
-- MySQL
-- Oracle
-- Spring Boot
-- Typescript
-- Bootstrap
-- JSF
-- jQuery 
+SUMMARY
+• Software Engineer with over 5 years of experience across different industries, including Occupational Medicine and Cosmetics.
+• Core technologies include Java, Angular, SQL, APIs, and Cloud technologies.
+• Currently working as a Software Engineer at 2S Software Ltda, specializing in the development of scalable applications.
+• Experienced in designing and maintaining scalable microservices and REST APIs, with a strong focus on clean architecture, code quality, and performance optimization.
+• Strong background troubleshooting production issues and contributing to reliable, maintainable, and high-performance systems.
+• Recognized by colleagues as a highly proactive team member with strong communication skills, a fast learner, high attention to detail, and a results-driven mindset.
+• Recognized for having a collaborative and supportive approach to mentoring, helping junior engineers improve technical skills, problem-solving abilities, and development best practices.
+• Notable achievements include leading a small team of engineers and working directly with the CTO on technical and business initiatives.
